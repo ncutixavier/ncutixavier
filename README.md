@@ -1,7 +1,7 @@
 
-![Frame 5](https://user-images.githubusercontent.com/51375428/116003129-0ab6e780-a5fd-11eb-859d-962e2919c3e2.png)
-
-## I am a software Developer based in Kigali, Rwanda. For more information you can reach out through this [link](https://ncutixavier.netlify.app/)
+<!-- ![Frame 5](https://user-images.githubusercontent.com/51375428/116003129-0ab6e780-a5fd-11eb-859d-962e2919c3e2.png) -->
+# Hi there 👋
+### I am a software Developer based in Kigali, Rwanda. For more information you can reach out through this [link](https://ncutixavier.netlify.app/)
 
 ![ncutixavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncutixavier&show_icons=true)
 
