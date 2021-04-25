@@ -1,5 +1,12 @@
-# Hi there 👋
-### I am Ncuti Xavier, a software Developer based in Kigali, Rwanda. For more information you can reach out through this [link](https://ncutixavier.netlify.app/)
+
+![Frame 5](https://user-images.githubusercontent.com/51375428/116003129-0ab6e780-a5fd-11eb-859d-962e2919c3e2.png)
+
+## I am a software Developer based in Kigali, Rwanda. For more information you can reach out through this [link](https://ncutixavier.netlify.app/)
+
+![ncutixavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncutixavier&show_icons=true)
+
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncutixavier&hide=python&langs_count=20)](https://github.com/ncutixavier/ncutixavier)
+
 <!--
 **ncutixavier/ncutixavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
