@@ -1,8 +1,7 @@
-### Hi there 👋
-
+# Hi there 👋
+### I am Ncuti Xavier, a software Developer based in Kigali, Rwanda. For more information you can reach out through this [link](https://ncutixavier.netlify.app/)
 <!--
 **ncutixavier/ncutixavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
