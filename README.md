@@ -1,11 +1,16 @@
 
 <!-- ![Frame 5](https://user-images.githubusercontent.com/51375428/116003129-0ab6e780-a5fd-11eb-859d-962e2919c3e2.png) -->
 # Hi there 👋
-### I am a software Developer based in Kigali, Rwanda. For more information you can reach out through this [link](https://ncutixavier.netlify.app/)
+
+### I am Ncuti Xavier.
+I am a software Developer based in Kigali, Rwanda.
+
+- 🔭 I’m currently working on different project with different stack such as Vue Js, React, Vb Net, ... 
+- 🌱 I’m currently learning Data Analytics on Coursena in partnership with Google Grow Skills.
+- 📫 You can reach out to me through this [link](https://ncutixavier.netlify.app/)
 
 ![ncutixavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncutixavier&show_icons=true)
-
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncutixavier&hide=python&langs_count=20)](https://github.com/ncutixavier/ncutixavier)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncutixavier&layout=compact&hide=python&langs_count=20)](https://github.com/ncutixavier/ncutixavier)
 
 <!--
 **ncutixavier/ncutixavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
