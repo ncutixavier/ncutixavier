@@ -3,7 +3,7 @@
 # Hi there 👋
 
 ### I am Ncuti Xavier.
-I am a software Developer based in Kigali, Rwanda.
+A software Developer based in Kigali, Rwanda.
 
 - 🔭 I’m currently working on different project with different stack such as Vue Js, React, Vb Net, ... 
 - 🌱 I’m currently learning Data Analytics on Coursena in partnership with Google Grow Skills.
