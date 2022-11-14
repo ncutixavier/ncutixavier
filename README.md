@@ -6,13 +6,18 @@
 A software Developer based in Kigali, Rwanda.
 
 - 🔭 I’m currently working on different project with different stack such as Vue Js, React, Node Js, Vb Net, ... 
-- 🌱 I’m currently learning Data Analytics on Coursena in partnership with Google Grow Skills.
+- 🌱 I’m currently learning Data Analytics on Coursera in partnership with Google Grow Skills.
 - 📫 You can reach out to me through this [link](https://ncutixavier.xyz/)
 
-#
-![ncutixavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncutixavier&show_icons=true)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ncutixavier&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ncutixavier&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncutixavier&layout=compact&hide=python&langs_count=20)](https://github.com/ncutixavier/ncutixavier)
 #
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ncutixavier&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ### Follow me on:
 <div align="left">
