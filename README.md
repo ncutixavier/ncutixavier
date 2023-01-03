@@ -20,10 +20,10 @@ A software Developer based in Kigali, Rwanda.
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ncutixavier&theme=nord&no-frame=false&no-bg=false&margin-w=4) -->
-### StackOverflow
+### 👉 StackOverflow
 ![Stack Overflow](https://stackoverflow-card.vercel.app/?userID=12552878&theme=stackoverflow-light)
 
-### Follow me
+### 👉 Follow me
 <div align="left">
 <a href="https://web.facebook.com/ndagijimana.xavier.1">
 <img src="https://cdn-icons-png.flaticon.com/128/4494/4494475.png" alt="Facebook" width="40" height="40">
@@ -42,7 +42,7 @@ A software Developer based in Kigali, Rwanda.
 </a>
 </div>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">👉 Languages and Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,python,react,vue,flutter,nodejs,fastapi,git,figma,vscode)]()
 
