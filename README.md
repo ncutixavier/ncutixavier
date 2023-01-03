@@ -21,7 +21,7 @@ A software Developer based in Kigali, Rwanda.
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ncutixavier&theme=nord&no-frame=false&no-bg=false&margin-w=4) -->
 
-### Follow me on:
+### Follow me
 <div align="left">
 <a href="https://web.facebook.com/ndagijimana.xavier.1">
 <img src="https://cdn-icons-png.flaticon.com/128/4494/4494475.png" alt="Facebook" width="40" height="40">
@@ -40,9 +40,9 @@ A software Developer based in Kigali, Rwanda.
 </a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,python,react,vue,flutter,nodejs,fastapi,figma)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,python,react,vue,flutter,nodejs,fastapi,git,figma,vscode)]()
 
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ncuti60B"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ncuti60B" /></a></p><br><br> -->
