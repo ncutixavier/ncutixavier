@@ -12,7 +12,7 @@ A software Developer based in Kigali, Rwanda.
 
 
 # 📊 GitHub Stats:
-![ncutixavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncutixavier&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=ncutixavier&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncutixavier&layout=compact&hide=python&langs_count=20)](https://github.com/ncutixavier/ncutixavier) -->
 #
 
