@@ -22,6 +22,7 @@ A software Developer based in Kigali, Rwanda.
 ![](https://github-profile-trophy.vercel.app/?username=ncutixavier&theme=nord&no-frame=false&no-bg=false&margin-w=4) -->
 ### 👉 StackOverflow
 ![Stack Overflow](https://stackoverflow-card.vercel.app/?userID=12552878&theme=stackoverflow-light)
+#
 
 ### 👉 Follow me
 <div align="left">
