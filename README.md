@@ -8,7 +8,7 @@ A software Developer based in Kigali, Rwanda.
 
 - 🔭 I’m currently building **Hova Store App**
 - 🌱 I’m currently learning Web3 Development.
-- 📫 You can reach out to me through this [link](https://ncutixavier.xyz/)
+- 📫 You can reach out to me through this [link](https://ncutixavier.com/)
 
 
 # 📊 GitHub Stats:
