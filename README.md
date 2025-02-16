@@ -26,7 +26,7 @@ A software Developer based in Kigali, Rwanda.
 
 ### 👉 Follow me
 <div align="left">
-<a href="https://web.facebook.com/ndagijimana.xavier.1">
+<a href="https://www.facebook.com/ncutixavier/">
 <img src="https://cdn-icons-png.flaticon.com/128/4494/4494475.png" alt="Facebook" width="40" height="40">
 </a>
 
